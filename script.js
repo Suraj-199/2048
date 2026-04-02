@@ -33,14 +33,6 @@ function right(){
             }
         }
         
-
-    #nfff
-    frefenf
-    dekfendf
-
-    cnejdc
-    kncmc
-    ncnkcnek
     }
     if(can){av();}
 }
